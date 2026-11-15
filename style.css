@@ -238,6 +238,7 @@ body {
   letter-spacing: -0.02em;
   background: var(--gradient-brand);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -463,12 +464,14 @@ body {
   margin-bottom: 1rem;
   background: linear-gradient(135deg, var(--text-primary) 30%, #a5b4fc 70%, #38bdf8 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 [data-theme="light"] .hero-title {
   background: linear-gradient(135deg, #0f172a 30%, #4338ca 70%, #0284c7 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -2548,3 +2551,4 @@ body {
     font-size: 0.95rem;
   }
 }
+
