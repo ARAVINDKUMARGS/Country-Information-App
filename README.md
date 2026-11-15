@@ -256,3 +256,6 @@ Follow these step-by-step test instructions to verify each core and edge-case re
 ---
 
 *Built with precision and passion for SpireX Foundation Task 9.*
+
+#   C o u n t r y - I n f o r m a t i o n - A p p  
+ 
